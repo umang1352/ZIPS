@@ -1,6 +1,6 @@
+const event = require('events');
 const fs = require('fs');
 const e = new event.EventEmitter();
-
 e.once('event-read',(fname)=>{
     fs.readFile(fname,function(err,data){
         if(err)
@@ -16,6 +16,7 @@ e.once('event-read',(fname)=>{
 });
 e.once('event-word-cal',(data)=>{
     var str = data.replace('\r\n',' ').split(' ');
+    //console.log(data);
     console.log("No of word in file is: "+(str.length));
     console.log("Finish");
 });
