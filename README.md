@@ -7,3 +7,9 @@ https://github.com/EslaMx7/ScreenTask
 ![Screenshot 2022-09-23 113954](https://user-images.githubusercontent.com/80378007/191905702-722bac48-095d-4c3f-bd8e-d6dd0fd279d1.png)
 ![Screenshot 2022-09-23 113909](https://user-images.githubusercontent.com/80378007/191905704-d396d10a-3adb-4be0-be82-6af8a3ec8319.png)
 ![mainuvprac53](https://user-images.githubusercontent.com/80378007/191908218-dd90e6d3-7f7f-4bab-9942-fea641bb503a.png)
+
+Practical perform in friday lab 30/9/2022
+CA&O Lab
+
+![uv59Prac5](https://user-images.githubusercontent.com/80378007/193205101-d355bc77-9260-47ae-895e-d69d11942117.png)
+![pr5UV_59](https://user-images.githubusercontent.com/80378007/193205178-dfecd0b9-d629-492b-91ed-cea1f2e8d143.png)
