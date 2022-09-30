@@ -14,3 +14,4 @@ CA&O Lab
 ![uv59Prac5](https://user-images.githubusercontent.com/80378007/193205101-d355bc77-9260-47ae-895e-d69d11942117.png)
 ![pr5UV_59](https://user-images.githubusercontent.com/80378007/193205178-dfecd0b9-d629-492b-91ed-cea1f2e8d143.png)
 ![uv59Prac5op2](https://user-images.githubusercontent.com/80378007/193207139-43c701b5-6a62-43ab-b437-451b3fbf052a.png)
+![uv59Prac5op3_decriment](https://user-images.githubusercontent.com/80378007/193208060-77f96198-65f8-4be9-95c6-8054db6bc6f5.png)
